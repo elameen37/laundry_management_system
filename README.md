@@ -12,8 +12,8 @@ How to run the Laundry management System  Project
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 5. Create a database with name lmsdb
 6. Import lmsdb.sql file(given inside the zip package in sql file folder)
-7.Run the script http://localhost/lms (frontend)
-8. For admin panel http://localhost/lms/admin  (admin panel)
+7.Run the script http://localhost/laundry_management_system (frontend)
+8. For admin panel http://localhost/laundry_management_system/admin (admin panel)
 
 Credential for admin panel : <br>
 Username: admin <br>
