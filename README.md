@@ -16,3 +16,4 @@ Password: admin
 Credential for user panel :
 Username: test@gmail.com
 Password: test123
+# laundry_management_system
